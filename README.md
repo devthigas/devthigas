@@ -12,7 +12,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Thigas-pic" height="150" style="border-radius:50px;" src=https://ibb.co/tshvZfJ>
+  <img align="right" alt="Thigas-pic" height="150" style="border-radius:50px;" src=![image](https://user-images.githubusercontent.com/76951283/152169114-b4c3d31e-7f67-49bb-b36b-6703e6ad6ccc.png)
+>
 </div>
   
   ##
